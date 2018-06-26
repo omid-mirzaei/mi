@@ -41,3 +41,7 @@ body{
 .mrgtop{
     margin-top: 4%;
 }
+.divider{
+    margin-top: 0;
+    color: #d4d4d4;
+}
