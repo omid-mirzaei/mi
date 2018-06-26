@@ -64,8 +64,21 @@ body{
     width: 100%;
     height: 195px; 
 }
+.box3{
+    padding: 20px 0;
+   
+    width: 100%;
+    height: 125px;
+}
+
 .innertext{
     padding: 4px 10px;
     font-size: 13px;
 
+}
+.riz{
+    font-size: 12px;
+}
+.dorosht{
+    color: #58bb4e;
 }
