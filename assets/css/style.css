@@ -1,0 +1,22 @@
+.box{
+    background-color: #dddddd;
+    width: 100%;
+    height: 125px;
+}
+
+.floatright{
+    float: right;
+}
+.floatleft{
+    float: left;
+}
+.boxx{
+    background-color: #dddddd;
+    width: 100%;
+    height: 150px;
+}
+.boxlg{
+    background-color: #dddddd;
+    width: 100%;
+    height: 300px;
+}
